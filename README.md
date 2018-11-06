@@ -1,4 +1,4 @@
-#Grouping of cats by their owner's gender
+## Grouping of cats by their owner's gender
 
 A json web service has been set up at the url: http://agl-developer-test.azurewebsites.net/people.json
 
